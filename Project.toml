@@ -1,0 +1,7 @@
+name = "SimpleDiffEq"
+uuid = "e29c9355-989f-4052-a685-a91edeabb55b"
+authors = ["Hannah <thathannahfield@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
